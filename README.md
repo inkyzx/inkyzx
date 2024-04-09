@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao perfil do inky 😁
+## Bem-vindo(a) ao perfil do Yuri 😁
 
  <div>
-   <a href="https://github.com/devemdobro">
+   <a href="https://github.com/inkyzx">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ink-studios5689&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ink-studios5689&layout=compact&langs_count=6&theme=tokyonight"/>
 
@@ -18,6 +18,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
-  ![Snake animation](https://github.com/ink-studios5689/ink-studios5689/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/inkyzx/inkyzx/blob/output/github-contribution-grid-snake.svg)
 
 </div>
