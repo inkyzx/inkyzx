@@ -10,9 +10,12 @@
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inkyzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inkyzx&layout=compact&langs_count=6&theme=tokyonight&hide_border=false"/>
+<div align="center">  
+  <img width="49%" height="195px" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=inkyzx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
+  
+  <img width="41%" height="195px" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inkyzx&layout=compact&langs_count=6&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ---
@@ -20,7 +23,8 @@
 ### 🔥 Sequência de Contribuições
 
 <div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=inkyzx&theme=tokyonight"/>
+  <img height="160em" 
+       src="https://streak-stats.demolab.com?user=inkyzx&theme=tokyonight&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9" />
 </div>
 
 ---
@@ -28,7 +32,8 @@
 ### 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inkyzx&theme=tokyo-night"/>
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=inkyzx&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
