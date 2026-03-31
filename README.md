@@ -2,8 +2,12 @@
 ### Atualmente estou estudando Desenvolvimento web Frontend.
  <div>
    <a href="https://github.com/inkyzx">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inkyzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkyzx&layout=compact&langs_count=6&theme=tokyonight"/>
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inkyzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkyzx&layout=compact&langs_count=6&theme=tokyonight"/> -->
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inkyzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inkyzx&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=inkyzx&theme=tokyo-night"/>
+   <img height="180em" src="https://streak-stats.demolab.com?user=inkyzx&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
