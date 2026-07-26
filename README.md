@@ -1,59 +1,164 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-</div>
-
-## 👋 Bem-vindo(a) ao meu perfil!
-
-💻 Atualmente estou estudando **Desenvolvimento Web Frontend**
-
----
-
-### 📊 Estatísticas
-
-<div align="center">  
-  <img width="49%" height="195px" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=inkyzx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  
-  <img width="41%" height="195px" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inkyzx&layout=compact&langs_count=6&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
----
-
-### 🔥 Sequência de Contribuições
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=INKYZX&fontAlign=50&fontAlignY=40&fontSize=55&animation=fadeIn&fontColor=ffffff&color=0:240046,25:5A189A,50:7B2CBF,75:9D4EDD,100:C77DFF"/>
 
 <div align="center">
-  <img height="160em" 
-       src="https://streak-stats.demolab.com?user=inkyzx&theme=tokyonight&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9" />
+
+# 👾 Hello, World!
+
+### `Full Stack Developer in Progress`
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Technical+Student+at+SENAI+Leopoldina;Frontend+Developer;Learning+Python;JavaScript+Enthusiast;Fedora+Linux+User;Always+Learning..." />
+</p>
+
 </div>
 
 ---
 
-### 📈 Atividade
+# 💜 About Me
+
+```console
+$ whoami
+
+> Yuri Souza
+> Technical Student in Systems Development
+> SENAI São Paulo
+
+$ cat currently_learning.txt
+
+> HTML
+> CSS
+> JavaScript
+> Python
+
+$ echo $GOAL
+
+Become a Full Stack Developer.
+```
+
+---
+
+# ⚙️ Tech Stack
 
 <div align="center">
-  <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=inkyzx&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark"/>
+
 </div>
 
 ---
 
-### 🚀 Tecnologias
+# 🚀 Roadmap
+
+| Technology | Status |
+|------------|--------|
+| HTML5 | 🟣🟣🟣🟣🟣 |
+| CSS3 | 🟣🟣🟣🟣⚪ |
+| JavaScript | 🟣🟣🟣⚪⚪ |
+| Python | 🟣⚪⚪⚪⚪ |
+| SQL | ⚪⚪⚪⚪⚪ |
+| React | ⚪⚪⚪⚪⚪ |
+| Node.js | ⚪⚪⚪⚪⚪ |
+| Docker | ⚪⚪⚪⚪⚪ |
+
+---
+
+
+---
+
+# 🔥 Contribution Streak
 
 <div align="center">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img src="https://streak-stats.demolab.com?user=inkyzx&theme=midnight-purple&hide_border=true&ring=C77DFF&fire=C77DFF&currStreakLabel=C77DFF"/>
+
 </div>
 
 ---
 
-### 🌐 Redes sociais
+# 📈 Contribution Graph
 
 <div align="center">
-  <a href="https://www.instagram.com/yuri.b.souzx/?hl=pt-br" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inkyzx&theme=react-dark&bg_color=0D1117&hide_border=true&line=C77DFF&point=FFFFFF&color=C77DFF&area=true"/>
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+---
+
+# 💻 Current Status
+
+```text
+█████████████████████████████
+
+SYSTEM STATUS
+
+OS ............ Fedora Linux KDE
+
+Editor ........ VS Code
+
+Learning ...... Python
+
+Working with .. HTML CSS JavaScript
+
+Coffee ........ ████████████ 100%
+
+Motivation .... ███████████░ 95%
+
+Sleep ......... ██░░░░░░░░░░ 20%
+
+█████████████████████████████
+```
+
+---
+
+# 📂 Featured Projects
+
+Coming Soon...
+
+🚀 Portfolio
+
+🌐 Responsive Websites
+
+⚙️ Full Stack Applications
+
+🐍 Python Projects
+
+---
+
+# 🌎 Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/inkyzx">
+<img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/yuri.b.souzx/">
+<img src="https://img.shields.io/badge/Instagram-7B2CBF?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+while(alive){
+
+    learn();
+
+    build();
+
+    improve();
+
+}
+```
+
+### ⭐ Thanks for visiting my profile.
+
+*"Eclipse first, the rest nowhere"*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:240046,25:5A189A,50:7B2CBF,75:9D4EDD,100:C77DFF"/>
