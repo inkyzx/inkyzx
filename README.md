@@ -113,6 +113,9 @@ Sleep ......... ██░░░░░░░░░░ 20%
 
 # 📂 Featured Projects
 
+✉️ - Fintech - WebDesign <br>
+https://github.com/inkyzx/Fintech
+
 Coming Soon...
 
 🚀 Portfolio
