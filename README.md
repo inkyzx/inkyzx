@@ -21,7 +21,7 @@ $ whoami
 
 > Yuri Souza
 > Technical Student in Systems Development
-> SENAI São Paulo
+> SENAI "Mariano Ferraz" São Paulo
 
 $ cat currently_learning.txt
 
