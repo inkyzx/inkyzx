@@ -41,7 +41,7 @@ Become a Full Stack Developer.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,html,css,js,react,python,github,vscode,linux&theme=dark"/>
 
 </div>
 
