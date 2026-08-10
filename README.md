@@ -121,7 +121,7 @@ Coming Soon...
 🐍 Python Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RomagnoliSte/inkyzx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/inkyzx/inkyzx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
