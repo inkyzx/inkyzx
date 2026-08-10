@@ -62,9 +62,6 @@ Become a Full Stack Developer.
 
 ---
 
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -122,6 +119,10 @@ Coming Soon...
 ⚙️ Full Stack Applications
 
 🐍 Python Projects
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RomagnoliSte/inkyzx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
