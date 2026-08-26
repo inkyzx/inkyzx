@@ -56,7 +56,7 @@ Become a Full Stack Developer.
 | JavaScript | 🟣🟣🟣⚪⚪ |
 | Python | 🟣⚪⚪⚪⚪ |
 | SQL | ⚪⚪⚪⚪⚪ |
-| React | ⚪⚪⚪⚪⚪ |
+| React | 🟣⚪⚪⚪⚪ |
 | Node.js | ⚪⚪⚪⚪⚪ |
 | Docker | ⚪⚪⚪⚪⚪ |
 
