@@ -2,7 +2,6 @@ name: Generate Profile Assets
 
 on:
   schedule:
-    # Daily at 00:17 UTC (avoids the busiest top-of-hour queue).
     - cron: "17 0 * * *"
   workflow_dispatch:
 
@@ -28,6 +27,9 @@ jobs:
           github_user_name: inkyzx
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark
+
+      - name: Fix generated assets directory permissions
+        run: sudo chown -R "$(id -u):$(id -g)" dist
 
       - name: Generate streak and activity graph
         env:
