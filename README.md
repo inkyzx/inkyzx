@@ -66,7 +66,7 @@ Become a Full Stack Developer.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=inkyzx&theme=midnight-purple&hide_border=true&ring=C77DFF&fire=C77DFF&currStreakLabel=C77DFF"/>
+<img src="https://raw.githubusercontent.com/inkyzx/inkyzx/output/contribution-streak.svg"/>
 
 </div>
 
@@ -76,7 +76,7 @@ Become a Full Stack Developer.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inkyzx&theme=react-dark&bg_color=0D1117&hide_border=true&line=C77DFF&point=FFFFFF&color=C77DFF&area=true"/>
+<img src="https://raw.githubusercontent.com/inkyzx/inkyzx/output/contribution-graph.svg"/>
 
 </div>
 
